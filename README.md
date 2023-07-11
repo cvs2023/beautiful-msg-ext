@@ -9,3 +9,12 @@ After installation of this extension when you visit any website you will see a b
 - color options
 - transitions
 - may be some default timer to show the message
+
+
+
+# Learnt 
+- Basics of extension
+- Create version 3 extension
+- Demo of scripting
+- Host permission
+- Connection of contentScript file with manifest json
