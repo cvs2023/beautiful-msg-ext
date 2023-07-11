@@ -15,7 +15,7 @@ fakeBodyDiv.style.fontSize = "48px";
 fakeBodyDiv.style.display = "flex";
 fakeBodyDiv.style.justifyContent = "center";
 fakeBodyDiv.style.alignItems = "center";
-fakeBodyDiv.innerText = "YOU ARE LOVELY";
+fakeBodyDiv.innerText = "YOU ARE AWESOME";
 
 // Add the div element to the body
 document.body.appendChild(fakeBodyDiv);
