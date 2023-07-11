@@ -1,6 +1,6 @@
 # Beautiful Message
 
-After installation of this extension when you visit any website you will see a beautiful random message.
+After installation of this extension when you visit any website you will see a beautiful message.
 
 # Future Features
 
